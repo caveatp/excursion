@@ -12,3 +12,25 @@ h3 {
   font-size: 16px;
   text-align: centered;
 }
+
+body {
+  text-align: centered;
+}
+
+html {
+  background: black;
+}
+
+h2 {
+  text-align: centered;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h4 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
