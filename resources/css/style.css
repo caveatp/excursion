@@ -13,9 +13,6 @@ h3 {
   text-align: centered;
 }
 
-body {
-  text-align: centered;
-}
 
 html {
   background: black;
@@ -32,5 +29,10 @@ h2 {
 h4 {
   font-family: Verdana;
   font-size: 21px;
+  color: gray;
+}
+
+h5 {
+  text-align: left;
   color: gray;
 }
